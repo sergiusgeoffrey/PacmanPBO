@@ -1,0 +1,6 @@
+﻿  PACMAN.cpp
+C:\Users\Asus\source\repos\PrakPBO11_Inheritance_Pacman\PrakPBO11_Inheritance_Pacman\PACMAN.cpp(9,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Asus\source\repos\PrakPBO11_Inheritance_Pacman\PrakPBO11_Inheritance_Pacman\PACMAN.cpp(9,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Asus\source\repos\PrakPBO11_Inheritance_Pacman\PrakPBO11_Inheritance_Pacman\PACMAN.cpp(175,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO11_Inheritance_Pacman\PrakPBO11_Inheritance_Pacman\PACMAN.cpp(542,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PrakPBO11_Inheritance_Pacman.vcxproj -> C:\Users\Asus\source\repos\PrakPBO11_Inheritance_Pacman\Debug\PrakPBO11_Inheritance_Pacman.exe
